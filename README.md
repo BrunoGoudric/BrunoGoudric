@@ -13,7 +13,21 @@
 
 ---
 
-Sou Desenvolvedor FullStack, atuo na área desde 2019 (e desde 2018 estudando programação 💻) e sou graduando em Análise e Desenvolvimento de Sistemas. .  
+Profissional Tecnólogo em Análise e Desenvolvimento de Sistemas e MBA em Gestão de Projetos, com sólida 
+experiência em Desenvolvimento Front-end e especializado em tecnologias como Next.js, React.js, TypeScript e 
+Node.js. 
+* Auxílio com a equipe de desenvolvimento, líder técnico, especialistas de sistemas e gerente de produtos para 
+idealização de soluções de software. 
+* Criação do front-end de aplicativos seguindo o Design System da companhia. 
+* Escritura de testes automatizados e realização de testes manuais nos softwares para assegurar qualidade na entrega. 
+* Atuação em desenvolvimento de softwares com qualidade e robustez, legibilidade de código, testes automatizados, code 
+review e domínio da lógica de programação. 
+* Conhecimentos em análise dos requisitos do sistema, processos de negócios existentes e sistemas de informação. 
+* Foco na otimização de processos e na criação de experiências do usuário excepcionais, com compretimento em 
+impulsionar a inovação tecnológica e o sucesso dos projetos. 
+* Vivência em liderar, coordenar e supervisionar equipes e suas atividades, com visão sistêmica dos processos envolvidos 
+nos setores, possibilitando a atuação estratégica para o alcance dos resultados propostos. 
+* Contribuição para o desenvolvimento técnico de novos colaboradores.
 
 Amo correr 🏃‍♂️, ler 📚 e estar com a minha 👨‍👩‍👦 e 🐶:  
 
